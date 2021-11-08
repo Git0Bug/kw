@@ -1,0 +1,6 @@
+在Makefile中，会根据编译的产品，选择将：
+
+avio_xxx/avio.lua --> chips/avio.lua
+avio_xxx/iocfg.lua --> chips/iocfg.lua
+
+
